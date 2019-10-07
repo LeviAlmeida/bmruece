@@ -1,2 +1,2 @@
 # bmruece
-Aplicativos para Uece: biblioteca, ru e mapas. Desenvolvidos em ionic 1.
+Aplicativos para Uece: biblioteca, ru e mapas. Desenvolvidos em ionic 1. Sera ? 
